@@ -1,1 +1,3 @@
 # Spotify-music-analysis
+
+This project is a research-driven analysis of Spotify listening behavior, based on streaming data that captures user interactions with tracks, artists, and albums. The study examines listening patterns across platforms, time of day, and user actions (play, skip, shuffle), while also highlighting top-performing tracks and engagement trends. By uncovering when and how users engage with music, this project provides data-driven insights into user preferences and streaming habits, ultimately showcasing opportunities for improving music recommendations, artist promotion, and personalized listening experiences.
